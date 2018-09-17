@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="PageFactory" verbose="2" >
+    <test verbose="1" name="DemoPageFactorySuite" preserve-order="true">
+        <classes>
+            <class name="com.testPackage.TestCases.LoginTest"/>
+        </classes>
+
+    </test>
+</suite>
